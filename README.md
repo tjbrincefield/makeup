@@ -3,5 +3,7 @@ steps to create face makeup
 
 ## Eyes
     - Primer
-    -Concealer
-    
+    - Concealer
+    - Eyeshadow
+    - Eyeliner
+    - Eyelashes
